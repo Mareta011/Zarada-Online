@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html lang="sr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Online Zarada Mini Kurs - Samo 1€</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      <!DOCTYPE html>
-<html lang="sr">
-<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -76,88 +65,5 @@
     </div>
   </div>
 
-</body>
-</html>-color: #f9f9f9;
-      color: #222;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 index.html.;
-      padding: 40px 20px;
-    }
-    h1 {
-      font-size: 2.2em;
-      color: #000;
-    }
-    h2 {
-      font-size: 1.5em;
-      color: #333;
-      margin-top: 40px;
-    }
-    p, li {
-      font-size: 1.1em;
-      line-height: 1.6;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .cta {
-      margin: 40px 0;
-      text-align: center;
-    }
-    .cta a {
-      background-color: #ff4b2b;
-      color: #fff;
-      padding: 15px 30px;
-      font-size: 1.2em;
-      text-decoration: none;
-      border-radius: 8px;
-      transition: background-color 0.3s ease;
-    }
-    .cta a:hover {
-      background-color: #e84325;
-    }
-    footer {
-      text-align: center;
-      font-size: 0.9em;
-      color: #777;
-      margin-top: 60px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>Započni Online Zaradu Bez Ulaganja – Za Samo 1€</h1>
-    <p>Otkrivamo proveren sistem zarade sa telefona ili laptopa – bez lažnih obećanja, bez ulaganja, bez stresa.</p>
-
-    <div class="cta">
-      <a href="<a href="https://markidjani.gumroad.com/l/fcwts" target="_blank">Preuzmi kurs za 1€</a>
-
-    <h2>Šta dobijaš u ovom mini kursu:</h2>
-    <ul>
-      <li>Liste proverenih sajtova za početak</li>
-      <li>Uputstva korak po korak za registraciju i rad</li>
-      <li>Kako da odmah kreneš bez ulaganja</li>
-      <li>Kako da primiš novac (PayPal, Wise...)</li>
-    </ul>
-
-    <h2>Za koga je ovaj kurs?</h2>
-    <ul>
-      <li>Za studente, roditelje, nezaposlene</li>
-      <li>Za početnike bez ikakvog iskustva</li>
-      <li>Za sve koji žele dodatnu zaradu od kuće</li>
-    </ul>
-
-    <h2>Zašto vredi više od 1€?</h2>
-    <p>Ovo nije još jedan lažni kurs. Dobićeš konkretne metode i resurse koje možeš odmah primeniti. Počni još danas da gradiš svoju online zaradu!</p>
-
-    <div class="cta">
-      <a href="https://markidjani.gumroad.com/l/fcwts" target="_blank">Kupi i preuzmi odmah</a>
-    </div>
-
-    <footer>
-      &copy; 2025 Online Start. Sva prava zadržana.
-    </footer>
-  </div>
 </body>
 </html>
